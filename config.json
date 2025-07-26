@@ -1,0 +1,26 @@
+{
+  "keywords": [
+    "your_keywords_for_searching"
+  ],
+  "max_per_kw": 50,
+  "clip_duration": 5,
+  "min_duration": 6,
+  "workers": 2,
+  "pexels_key": "PASTE_YOUR_API_KEY_FROM_PEXELS",
+  "watermark_detection": {
+    "enabled": true,
+    "threshold": 2,
+    "check_duration": 1.0
+  },
+  "video_quality": {
+    "max_height": 720,
+    "crf": 23,
+    "preset": "fast",
+    "audio_bitrate": "128k"
+  },
+  "timeout_settings": {
+    "download_timeout": 120,
+    "ffmpeg_timeout": 120,
+    "search_timeout": 30
+  }
+}
