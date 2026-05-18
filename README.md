@@ -310,10 +310,6 @@ chcp 65001
 4. Push в branch (`git push origin feature/amazing-feature`)
 5. Откройте Pull Request
 
-## 📄 Лицензия
-
-Этот проект распространяется под лицензией MIT. См. файл `LICENSE` для подробностей.
-
 ## ⭐ Поддержка
 
 Если проект помог вам, поставьте звезду на GitHub!
